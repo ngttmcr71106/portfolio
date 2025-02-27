@@ -8,7 +8,7 @@
 
 <?php get_header(); ?>
 
-<div class="sm:my-40 my-20 mx-4">
+<div class="sm:my-20 my-10 mx-4">
     <h2 class="text-lg font-semibold">わたしについて</h2>
     <h6 class="text-sm">About Me</h6>
     <div class="block sm:flex justify-start gap-6 mt-6">
@@ -32,6 +32,7 @@
                             <li>好きなこと：お酒（焼酎と壱岐の日本酒）</li>
                             <li>人との繋がりが好き</li>
                             <li>仕事：Webエンジニア</li>
+                            <a href="https://github.com/ngttmcr71106" target="_blank">githubはこちら</a>
                         </ul>
                     </div>
                 </div>
